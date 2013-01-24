@@ -23,7 +23,7 @@
 
 <div class="wrap">
     <div id="moceanadvwidget">
-        <h2>Mocean Advertisement Stats</h2>
+        <h2>Mocean Advertisement Error Logs</h2>
         <?php if ($_GET['reset'] == 'true') { ?>
             <div id="setting-error-settings_updated" class="updated settings-error"> <p><strong>Errors were cleared.</strong></p></div>
         <? } ?>

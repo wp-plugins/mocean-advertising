@@ -24,16 +24,16 @@ This section describes how to install the plugin and get it working.
 
 == Screenshots ==
 
-1. screenshot-1.png
-2. screenshot-2.png
-2. screenshot-3.png
+1. Adding a Mocean Advertisement widget
+2. Mocean Advertisement Stats page
+2. Mocean Error logs page
 
 == Changelog ==
 
-= 0.0.0.1 =
+= 1.0.0 =
 First public release.
 
 == Upgrade Notice ==
 
-= 0.0.0.1 =
+= 1.0.0 =
 First public release.
